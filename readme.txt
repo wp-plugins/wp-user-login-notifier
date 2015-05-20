@@ -13,7 +13,7 @@ WordPress User Login Notifier plugin notifies site admin and users of the succef
 
 WordPress User Login notifier plugin notifies site admin and the users on a WordPress site when a user logs in succesfully or the login attempt is failed.
 
-=== Features ===
+= Features =
 
 *   Notify site admin of a user login
 *	Notify the user of their succesful login to a site
